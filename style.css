@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.bel{
+    color: orange;
+}
+
+
+
+section{
+    display: flex;
+}
+.naz{
+    width: 90%;
+    height: 100%;
+}
+.half-width img{
+    width: 350px;
+    height: 100%;
+    padding: 10px;
+    margin-right: 8px;
+    margin-left: 9px;
+}
+.link-button{
+    
+    color: aliceblue;
+    text-align: center;
+    font-weight: 700px;
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 10px 40px;
+    border-radius: 6px;
+    background-image: -o-linear-gradient(orange,red);
+}
+h1{
+    font-size: 28px;
+   
+   border-radius: 10%;
+}
+#bill{
+    background-image:url();
+}
